@@ -1,8 +1,6 @@
-# telco-churn-prediction
+# Telco Customer Churn Prediction
 
 Predicting customer churn using Random Forest + SMOTE. ML portfolio project.
-
-# Telco Customer Churn Prediction
 
 ## Problem
 A telecom company loses ~20% of customers yearly. Predicting churn helps target retention offers, potentially saving millions in lost revenue.
